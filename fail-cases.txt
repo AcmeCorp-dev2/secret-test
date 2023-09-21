@@ -1,0 +1,12 @@
+to="https:docs.aws.amazon.comcodedeploylatestuserguideapplications-delete.html"
+aws G4jPMKDfdM6zJYMpQcQUl37A1yz0mLh33M18IQw3
+aws 'G4jPMKDfdM6zJYMpQcQUl37A1yz0mLh33M18IQw3'
+aws-key 'G4jPMKDfdM6zJYMpQcQUl37A1yz0mLh33M18IQw3'
+Some random text without AWS keys
+AWS-Secret-Access-Key='InvalidKey'
+awskey='InvalidKey'
+Text without any AWS-related information
+AWSAccessKeyId='InvalidKey'
+Invalid text containing AWS keys somewhere in the middle
+aws='ValidKey' aws-secret-access-key='AnotherValidKey'
+aws-secret-access-key G4jPMKDfdM6zJYMpQcQUl37A1yz0mLh33M18IQw3
